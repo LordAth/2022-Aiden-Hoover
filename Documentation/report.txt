@@ -1,0 +1,38 @@
+Annotated OKI as U3
+Annotated AndersonPP (unit D) as Conn1D
+Annotated AndersonPP (unit A) as Conn1A
+Annotated AndersonPP (unit C) as Conn1C
+Annotated LED as D1
+Annotated IRFS4115 as Q1
+Annotated 5.1k as R1
+Annotated 3.3k as R2
+Annotated LT1910 as U1
+Annotated OKI as U2
+Annotated 0.1uF as C8
+Annotated TM4C129E_Launchpad (unit A) as U4A
+Annotated TM4C129E_Launchpad (unit E) as U4E
+Annotated TM4C129E_Launchpad (unit B) as U4B
+Annotated TM4C129E_Launchpad (unit F) as U4F
+Annotated TM4C129E_Launchpad (unit G) as U4G
+Annotated TM4C129E_Launchpad (unit C) as U4C
+Annotated TM4C129E_Launchpad (unit H) as U4H
+Annotated TM4C129E_Launchpad (unit D) as U4D
+Annotated GND as #PWR011
+Annotated GND as #PWR02
+Annotated GND as #PWR03
+Annotated GND as #PWR04
+Annotated +5V as #PWR05
+Annotated +3V3 as #PWR06
+Annotated GND as #PWR07
+Annotated +3V3 as #PWR08
+Annotated GND as #PWR09
+Annotated GND as #PWR010
+Annotated +5V as #PWR01
+Annotated GND as #PWR012
+Annotated 0.1uF as C1
+Annotated 22uF 50V as C2
+Annotated 22uF 50V as C3
+Annotated 10uF 50V as C4
+Annotated 10uF as C5
+Annotated 10uF as C6
+Annotated 0.1uF as C7
